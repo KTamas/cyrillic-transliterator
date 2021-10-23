@@ -2,7 +2,7 @@
 
 This for exists solely so I can point people to the binary that I've now added to the repo as the original author sent it to me a long time ago. The codebase is unmaintained and all my attempts to get in touch with the original author failed.
 
-To install it, [download the binary](Cyrillic Transliterator Input Method.app.zip), unzip it and put it in `~/Library/Input Methods`. Go to System Preferences -> Keyboard -> Input Sources, click "+", then scroll down to Russian or simply search for "Cyrillic Transliterator". After that it simply works.
+To install it, [download Cyrillic Transliterator Input Method.app.zip](https://github.com/KTamas/cyrillic-transliterator/raw/master/Cyrillic%20Transliterator%20Input%20Method.app.zip), unzip it and put it in `~/Library/Input Methods`. Go to System Preferences -> Keyboard -> Input Sources, click "+", then scroll down to Russian to find it, or simply search for "Cyrillic Transliterator". After that it simply works.
 
 I've tested it under macOS Big Sur on a 13" M1 Macbook Pro and macOS Monterey RC2 on a 16" 2019 Macbook Pro and it worked without any issues.
 
