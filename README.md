@@ -1,3 +1,15 @@
+# Read me first
+
+This for exists solely so I can point people to the binary that I've now added to the repo as the original author sent it to me a long time ago. The codebase is unmaintained and all my attempts to get in touch with the original author failed.
+
+To install it, [download the binary](Cyrillic Transliterator Input Method.app.zip), unzip it and put it in `~/Library/Input Methods`. Go to System Preferences -> Keyboard -> Input Sources, click "+", then scroll down to Russian or simply search for "Cyrillic Transliterator". After that it simply works.
+
+I've tested it under macOS Big Sur on a 13" M1 Macbook Pro and macOS Monterey RC2 on a 16" 2019 Macbook Pro and it worked without any issues.
+
+I managed to compile the Input Method with Xcode 13, but as soon as I try to use it the system starts beachballing. I'm not a Mac developer though and since the old binary works, I won't be debugging this.
+
+Original README below.
+
 # Cyrillic Transliterator
 
 This set of apps allows you to type Latin characters in OSX and have them transliterate in real time into Cyrillic characters. This includes multi-character transliterations like 'sh'/'ш'.
